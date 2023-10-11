@@ -1,5 +1,5 @@
 # Transparent_Blender
-In this repository, use blender python API. &rarr; <a href="https://docs.blender.org/api/current/index.html" target="_blank">bpy</a>
+This repository uses blender python API. &rarr; <a href="https://docs.blender.org/api/current/index.html" target="_blank">bpy</a>
 
 Download free hdri if you want.
 Download free transparent object models, and use it.
